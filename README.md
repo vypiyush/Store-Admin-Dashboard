@@ -1,8 +1,8 @@
 # MERN Stack E-Commerce Store + Dashboard & CMS
 
 ### Visit at:
-- Store-Admin-Dashboard: https://vystore-admin-dashboard.vercel.app/
-- VY-Store: https://vy-store.vercel.app/
+- **Store-Admin-Dashboard:** https://vystore-admin-dashboard.vercel.app/
+- **VY-Store:** https://vy-store.vercel.app/
 
 Key Features:
 
